@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Chat Heads</string>
+    <string name="lbl_example">You can display the current user conversation to this screen and also allow user to send a new message.</string>
+    <string name="lbl_create_chat">Create chat head</string>
+</resources>
